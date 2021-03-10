@@ -15,6 +15,10 @@
 3. 分为
 4. 发疯安慰
 
+我的网站是 [我的官网](http://fwjeofjewjfa.com)
+
+![一张图片](1.png)
+
 ```javascript
 console.log('hello')
 ```
